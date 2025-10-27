@@ -57,5 +57,5 @@ jobs:
           Write-Host "This connection will remain active for up to 6 hours."
           
           while ($true) {
-            Start-Sleep -Seconds 60
-          }
+            Start-Sleep -Seconds 60
+          }
